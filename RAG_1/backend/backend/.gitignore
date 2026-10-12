@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+qdrant_db/
+static/extracted_images/*
+!static/extracted_images/.gitkeep
+.pytest_cache/

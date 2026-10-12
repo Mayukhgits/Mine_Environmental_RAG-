@@ -1,0 +1,17 @@
+# Runtime
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+
+# RAG pipeline
+langgraph>=0.2.0
+google-genai>=1.0.0
+qdrant-client>=1.10.0
+fastembed>=0.4.0
+sentence-transformers>=2.7.0
+
+# PDF
+pymupdf>=1.24.0
+pillow>=10.2.0
